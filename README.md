@@ -21,10 +21,6 @@ Este trabalho tem como objetivo principal aprimorar a eficiência operacional em
 
 * Pedro Felipe Alves de Oliveira
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
 # Documentação
 
 <ol>
@@ -42,11 +38,3 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
-
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
